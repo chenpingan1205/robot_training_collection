@@ -150,7 +150,7 @@
 | 建立个人仓库与目录结构                | 本仓库 `person_outcome/`                  | 已完成 |
 | Arduino IDE + ESP32 环境配置成功 | `person_outcome/arduino ide编译运行成功.png` | 已完成 |
 | 电机控制代码编译通过                 | `firmware/motor_baseline/`             | 已完成 |
-| Wokwi 双电机差速仿真              | `firmware/wokwi_sim/`                  | 未完成 |
+| Wokwi 双电机差速仿真              | `firmware/wokwi_sim/`                  | 待完成 |
 | 力学关系图与系统图                  | `docs/`                                | 待完成 |
 | BOM v1（两种方案）               | `hardware/BOM_v1.md`                   | 待完成 |
 | 首版 CAD 与打印件                | `cad/`                                 | 待完成 |
